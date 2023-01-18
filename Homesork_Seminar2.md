@@ -22,3 +22,8 @@ Online portal Geekbrains - course introduction to version control
 Второй коммит для ветки br3.
 
 Третий коммит для ветки br3.
+Первый коммит для ветки br4.
+
+Второй коммит для ветки br4.
+
+Третий коммит для ветки br4.
