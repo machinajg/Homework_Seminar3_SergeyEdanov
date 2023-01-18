@@ -12,16 +12,8 @@ List
 
 Online portal Geekbrains - course introduction to version control
 
-<<<<<<< HEAD
-Первый коммит для ветки br1.
-
-Второй коммит для ветки br1.
-
-Третий коммит для ветки br1.
-=======
 Первый коммит для ветки br2.
 
 Второй коммит для ветки br2.
 
 Третий коммит для ветки br2.
->>>>>>> br2
