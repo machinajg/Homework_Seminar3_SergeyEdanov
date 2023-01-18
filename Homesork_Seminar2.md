@@ -13,3 +13,5 @@ List
 Online portal Geekbrains - course introduction to version control
 
 Первый коммит для ветки br2.
+
+Второй коммит для ветки br2.
